@@ -1,2 +1,3 @@
 #About Crows, by John Ciardi
-The old crow is getting slow
+The old crow is slow
+The young crow is not
